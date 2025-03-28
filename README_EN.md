@@ -106,6 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to:
 
 - Submit an [Issue](https://github.com/Weedychen/voice_transcriber/issues)
+- Email: weedychen@outlook.com
 
 ## 🔄 Changelog
 

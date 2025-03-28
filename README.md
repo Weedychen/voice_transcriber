@@ -106,6 +106,7 @@ voice_transcriber/
 如有问题或建议，欢迎通过以下方式联系：
 
 - 提交 [Issue](https://github.com/Weedychen/voice_transcriber/issues)
+- 发送邮件至：weedychen@outlook.com
 
 ## 🔄 更新日志
 
