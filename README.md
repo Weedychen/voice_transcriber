@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
-简体中文
+[English](./README_EN.md) | 简体中文
 
 基于 Whisper 模型的实时语音转写工具，支持GPU加速，提供简洁直观的图形界面。本工具目前仅支持Windows操作系统。
 
