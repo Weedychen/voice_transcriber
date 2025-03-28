@@ -25,4 +25,9 @@ ENV/
 
 # 系统文件
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# PyInstaller
+build/
+dist/
+*.spec 
