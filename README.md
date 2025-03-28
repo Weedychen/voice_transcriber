@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
-[English](./README_EN.md) | 简体中文
+简体中文
 
 基于 Whisper 模型的实时语音转写工具，支持GPU加速，提供简洁直观的图形界面。本工具目前仅支持Windows操作系统。
 
@@ -30,7 +30,7 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/voice_transcriber.git
+   git clone https://github.com/Weedychen/voice_transcriber.git
    cd voice_transcriber
    ```
 
@@ -105,8 +105,7 @@ voice_transcriber/
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 提交 [Issue](https://github.com/yourusername/voice_transcriber/issues)
-- 发送邮件至：[your.email@example.com]
+- 提交 [Issue](https://github.com/Weedychen/voice_transcriber/issues)
 
 ## 🔄 更新日志
 
